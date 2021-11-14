@@ -6,6 +6,7 @@ Created on Fri Jul 16 20:43:05 2021
 """
 
 from PubMedCrawlerNoField import pubmedcrawler
+from PubMedCrawlerNoField import abstractretriever
 import json
 from BioBertClassifier import biobertclassifier
 
