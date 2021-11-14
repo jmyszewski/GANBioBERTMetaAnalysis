@@ -1,0 +1,83 @@
+Study,Year,Reference #,Study Technique,Patients,A,B,C,D,E,F,G
+Aksoy,2014,1,THA ,70,Unclear,Low,High,Low,Low,Low,Low
+Amundson,2017,2,TKA GA NA ,157,Low,Low,Low,Low,Low,Low,Low
+Andersen,2012,3,TKA NA ,40,Low,Low,Low,Low,Low,Low,Low
+Angers,2019,4,TKA GA ,90,Low,Low,Low,Low,Low,Low,Low
+Ashraf,2013,5,TKA NA ,40,Low,Low,Low,Low,Low,Low,Unclear
+Bali,2016,6,TKA GA ,68,Low,Low,High,Low,Low,Low,Low
+Baranovi,2011,7,TKA NA ,71,Unclear,Unclear,Unclear,High,Low,Low,Low
+Barrington,2005,8,TKA NA ,108,Low,High,High,Low,Low,Low,Low
+Beausang,2016,9,TKA NA ,96,Unclear,High,High,Low,Low,Low,Unclear
+Biswas,2018,10,TKA NA ,130,Low,Low,Low,Unclear,Low,Low,Low
+Bogoch,2002,11,THA TKA GA ,115,Low,Low,Low,Low,Low,Low,Unclear
+Bron,2018,12,THA NA ,162,Low,Low,Low,Low,Low,Low,Unclear
+Campbell,2008,13,TKA NA ,56,Unclear,Low,Unclear,High,Low,Low,Low
+Chan,2013,14,TKA GA NA ,135,Low,Low,High,Unclear,Low,Low,Low
+Chan,2014,15,TKA ,135,Unclear,Low,Unclear,Low,Low,Low,Unclear
+Chaumeron,2013,16,TKA NA ,59,Low,Low,Low,Low,Low,Low,Low
+Chelly,2001,17,TKA GA NA ,92,High,Unclear,High,Low,Low,Low,Unclear
+Chen,2017,18,THA TKA GA ,90,Low,Low,Unclear,Low,Low,Low,Low
+Fahs,2018,19,THA GA ,99,Low,Low,Unclear,Low,Low,Low,Low
+Fan,2016,20,TKA GA ,157,Low,Low,Low,Low,Low,Low,Low
+Fan,2017,21,TKA GA ,65,Unclear,Unclear,Unclear,Low,Low,Low,Unclear
+Fenten,2018,22,TKA NA ,80,Low,Low,Low,Low,Low,Low,Low
+Gasanova,2019,23,THA GA ,60,Unclear,Unclear,Unclear,Unclear,Unclear,Unclear,Unclear
+Gmez,2017,24,TKA NA ,574,Unclear,Unclear,Unclear,Low,Low,Low,Unclear
+Good,2007,25,TKA ,42,Low,Low,Low,Low,Low,Low,Unclear
+Goytizolo,2016,26,THA NA ,90,Low,Low,Low,Low,Unclear,Low,Low
+Goytizolo,2020,27,TKA NA ,111,Unclear,Unclear,Unclear,Unclear,Unclear,Unclear,Unclear
+Grosso,2018,28,TKA NA ,102,Low,Low,Low,Unclear,Low,Low,Low
+Hua,2017,29,THA GA ,60,Unclear,Unclear,Unclear,High,Low,Low,Low
+Johnson,2017,30,THA GA NA ,159,Low,Low,High,Low,Low,Low,Low
+Kadic,2009,31,TKA NA ,53,Low,Low,Unclear,Low,Low,Low,Low
+Kampitak,2018,32,TKA NA ,57,Low,Low,Low,Low,Low,Low,Low
+Kardash,2007,33,TKA NA ,40,Unclear,Low,Low,Low,Low,Low,Unclear
+Kayupov,2018,34,TKA GA NA ,91,Low,High,High,High,Unclear,Low,Low
+Kearns,2016,35,THA NA ,108,Low,Low,Low,Low,Low,Low,Low
+Kendrii,2017,36,THA GA NA ,30,Unclear,Unclear,Unclear,Low,Low,Low,Unclear
+Kovalak,2015,37,TKA NA ,60,Low,Unclear,Unclear,Low,Low,Low,Low
+Kratz,2015,38,THA GA ,52,Low,Low,High,High,Low,Low,Low
+Kuchlik,2017,39,THA NA ,56,Low,Low,Low,Low,Low,Low,Low
+Kulkarni,2019,40,TKA NA ,100,Low,Low,Low,Low,Low,Low,Low
+Lee,2011,41,TKA NA ,78,Low,Low,Low,Low,Low,Low,Low
+Lee,2012,42,TKA GA ,40,Unclear,Unclear,Unclear,Low,Low,Low,Unclear
+Leung,2018,43,TKA NA ,70,Low,Low,Low,Low,Low,Low,Low
+Li,2017,44,TKA ,53,Low,Low,Low,Low,Low,Low,Low
+Long,2006,45,TKA NA ,70,Unclear,Unclear,Unclear,High,Low,Unclear,Unclear
+Lu,2017,46,TKA GA NA ,57,Unclear,Low,High,Low,Low,Low,Low
+Luezner,2020,47,TKA ,139,Low,Low,Low,Low,Low,Low,Low
+lvarez,2017,48,TKA NA ,39,High,High,High,Low,Low,Low,Low
+Marino,2009,49,THA NA ,150,Low,High,Unclear,Low,Low,Low,Low
+Mei,2017,50,THA GA ,132,Low,Low,Unclear,Low,Low,Unclear,Low
+Moghtadaei,2014,51,TKA NA ,36,Low,Low,Low,Unclear,Low,Low,Low
+Nader,2012,52,TKA NA ,62,Low,Unclear,Unclear,Low,Low,Low,Low
+Ng,2001,53,TKA GA ,48,Low,Low,Low,Low,Low,Low,Low
+Ng,2012,54,TKA GA ,32,Low,Low,Low,Low,Low,Low,Low
+Nishio,2014,55,THA GA NA ,19,Low,Unclear,Unclear,Low,Low,Low,Low
+Niskanen,2005,56,TKA NA ,50,Unclear,High,High,Low,Low,Low,Unclear
+Peng,2014,57,TKA GA ,280,Low,Unclear,High,Low,Low,Low,Low
+Reinhardt,2014,58,TKA NA ,94,Low,Low,Low,Low,Low,Low,Low
+Rizk,2017,59,TKA GA ,75,Low,Unclear,Unclear,Low,Low,Low,Low
+Safa,2014,60,TKA NA ,68,Low,Low,Low,Low,Low,Low,Low
+Sahin,2014,61,TKA NA ,104,Low,Low,Low,Low,Low,Low,Low
+Saine,2018,62,TKA NA ,60,Low,Low,Low,Low,Low,Low,Low
+Seet,2006,63,TKA NA ,37,Low,Unclear,Unclear,Low,Low,Low,Unclear
+Siddiqui,2007,64,THA GA ,34,Low,High,High,Low,Low,Low,Low
+Singelyn,1998,65,TKA GA NA ,30,Low,Unclear,Unclear,Low,Low,Low,Low
+Sites,2004,66,TKA NA ,40,Low,Unclear,Unclear,Low,Low,Low,Low
+Sogbein,2017,67,TKA NA ,70,Low,Low,Low,Low,Low,Low,Low
+Spangehl,2015,68,TKA GA ,160,Low,High,High,Low,Low,Low,Low
+Stathellis,2017,69,TKA GA ,50,Low,Unclear,Unclear,Low,Low,Low,Low
+Stevens,2000,70,THA GA ,60,Unclear,Unclear,Low,Low,Low,Low,Unclear
+Sundarathiti,2009,71,TKA NA ,61,Unclear,Unclear,Unclear,Low,Low,Low,Unclear
+Thybo,2016,72,THA NA ,100,Low,Low,Low,Unclear,Low,Low,Low
+Toftdahl,2007,73,TKA NA ,77,Low,Unclear,Unclear,Low,Low,Low,Low
+Tong,2019,74,TKA NA ,40,Low,Low,Low,Low,Low,Low,Low
+Twyman,1990,75,THA GA ,20,Unclear,Unclear,Unclear,Low,High,Low,Unclear
+Wall,2017,76,TKA GA NA ,257,Low,Low,Unclear,Unclear,Low,Unclear,Low
+Wang,2019,77,TKA ,90,Low,Low,Low,Low,Low,Low,Low
+Widmer,2012,78,TKA GA ,55,Low,Low,Low,Low,Low,Low,Low
+Wu,2014,79,TKA NA ,79,Low,High,High,Unclear,Low,Low,Low
+Yamamoto,2019,80,THA NA ,53,Low,Low,Low,Low,Low,Low,Low
+Zhou,2018,81,TKA GA ,40,Low,Low,Low,Low,Low,Low,Low
+Zinkus,2017,82,TKA NA ,54,Low,Low,Low,Low,Low,Low,Low

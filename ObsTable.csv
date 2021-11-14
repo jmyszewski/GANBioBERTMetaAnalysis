@@ -1,0 +1,42 @@
+Study,Year,Reference #,Study Type,Study Technique,Patients,A,B,C,D
+Akkaya,2014,83,Case-control ,TKA NA ,27,High,Low,Low,High
+Alsheik,2020,84,Retrospective cohort ,TKA GA NA ,80,Unclear,Low,Low,Low
+Antoni,2014,85,Retrospective cohort ,TKA GA ,98,High,High,Low,Low
+Asakura,2011,86,Retrospective cohort ,TKA GA ,40,High,Low,Low,Low
+Beaupre,2012,87,Prospective cohort ,TKA GA NA ,39,High,Low,Low,Low
+Cien,2015,88,Retrospective cohort ,TKA ,122,Low,Low,Low,Low
+Danninger,2014,89,Retrospective cohort ,THA TKA GA NA ,530089,Unclear,Low,Unclear,Low
+DeRuyter,2006,90,Prospective cohort ,TKA GA NA ,50,High,Low,Unclear,Low
+Duncan,2013,91,Retrospective cohort ,TKA GA NA ,108,High,Unclear,Low,Low
+Fetherston,2011,92,Prospective cohort ,THA TKA ,52,Unclear,Low,Low,Unclear
+Fukuda,2020,93,Retrospective cohort ,TKA GA ,5094,Low,Low,Low,Low
+Green,2018,94,Retrospective cohort ,THA GA ,20,Unclear,Low,Low,Low
+Gwam,2018,95,Retrospective cohort ,TKA ,110,Unclear,Low,Low,Low
+Henson,2019,96,Retrospective cohort ,TKA ,144,Unclear,Low,Low,Low
+Horn,2015,97,Retrospective cohort ,TKA ,32,Unclear,Low,Low,High
+Jacob,2011,98,Retrospective cohort ,TKA GA NA ,8590,Unclear,Low,Low,Low
+Jacob,2011a,99,Retrospective cohort ,THA ,9844,Unclear,Unclear,Low,Low
+Kim,2012,100,Retrospective cohort ,TKA NA ,80,High,Low,Low,Low
+Kinjo,2012,101,Prospective cohort ,TKA GA NA ,81,Unclear,Low,Low,High
+Kirkness,2017,102,Retrospective cohort ,TKA GA NA ,268,Low,Low,Low,Low
+Kukreja,2019,103,Retrospective cohort ,THA NA ,71,Low,Low,Low,Low
+Liu,2015,104,Retrospective cohort ,TKA NA ,1768,Unclear,Low,Low,Low
+Lovald,2015,105,Retrospective cohort ,TKA GA NA ,35642,High,Low,Unclear,Unclear
+McIsaac,2017,106,Retrospective cohort ,TKA GA NA ,178214,Low,Low,Low,Low
+Memtsoudis,2016,107,Retrospective cohort ,TKA GA NA ,719426,Low,Low,Low,Low
+Memtsoudis,2016,107,Retrospective cohort ,THA GA NA ,342726,Low,Low,Low,Low
+Peters,2006,108,Retrospective cohort ,THA TKA GA NA ,100,High,High,Low,High
+Pope,2015,109,Retrospective cohort ,TKA GA NA ,294,High,Low,Low,Low
+Raimer,2007,110,Prospective cohort ,TKA GA NA ,42,Unclear,Low,Low,High
+Rajeev,2016,111,Prospective cohort ,TKA GA NA ,114,High,High,Low,Low
+Rames,2019,112,Retrospective cohort ,TKA ,693,Low,Low,Low,Low
+Roberts,2019,113,Retrospective cohort ,TKA ,236,Low,Low,Low,Low
+Schmidt,2009,114,Retrospective cohort ,TKA GA NA ,200,Unclear,Unclear,Low,Low
+Schwab,2019,115,Retrospective cohort ,TKA ,224,Unclear,Low,Low,Low
+Simonsen,2011,116,Prospective cohort ,TKA NA ,67,Unclear,High,Low,Low
+Singelyn,1999,117,Prospective cohort ,THA GA NA ,1274,High,Low,Low,Low
+Sporer,2016,118,Retrospective cohort ,TKA NA ,597,Unclear,Low,Low,Low
+Sugar,2011,119,Prospective cohort ,TKA NA ,28,Unclear,Low,Low,Low
+Suthersan,2015,120,Prospective cohort ,TKA GA NA ,46,Unclear,Low,Low,Low
+Tetsunaga,2016,121,Retrospective cohort ,THA GA ,62,High,High,Low,Low
+Willett,2019,122,Retrospective cohort ,TKA ,151,High,Low,Low,Low
