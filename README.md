@@ -27,4 +27,4 @@ ReferencesList.csv: This is a table of all the references used for the 2021 meta
 
 Memtsoudis SG, Cozowicz C, Bekeris J, Bekere D, Liu J, Soffin EM, Mariano ER, Johnson RL, Hargett MJ, Lee BH, Wendel P, Brouillette M, Go G, Kim SJ, Baaklini L, Wetmore D, Hong G, Goto R, Jivanelli B, Argyra E, Barrington MJ, Borgeat A, De Andres J, Elkassabany NM, Gautier PE, Gerner P, Gonzalez Della Valle A, Goytizolo E, Kessler P, Kopp SL, Lavand'Homme P, MacLean CH, Mantilla CB, MacIsaac D, McLawhorn A, Neal JM, Parks M, Parvizi J, Pichler L, Poeran J, Poultsides LA, Sites BD, Stundner O, Sun EC, Viscusi ER, Votta-Velis EG, Wu CL, Ya Deau JT, Sharrock NE. Anaesthetic care of patients undergoing primary hip and knee arthroplasty: consensus recommendations from the International Consensus on Anaesthesia-Related Outcomes after Surgery group (ICAROS) based on a systematic review and meta-analysis. Br J Anaesth. 2019 Sep;123(3):269-287. doi: 10.1016/j.bja.2019.05.042. Epub 2019 Jul 24. PMID: 31351590; PMCID: PMC7678169.
 
-
+[![DOI](https://zenodo.org/badge/427797494.svg)](https://zenodo.org/badge/latestdoi/427797494)
