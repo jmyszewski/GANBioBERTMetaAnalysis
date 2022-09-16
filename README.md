@@ -9,7 +9,7 @@ This code and data is distributed freely under the Apache 2.0 License; All we re
 
 The files present in this repository are as follows:
     
-Model_save256B: The Pretrained GAN-BioBERT model for sentiment classification. This can be adapted to classify sentiment for any biomedical text as shown in Example1.py
+Model_save256B.zip: The Pretrained GAN-BioBERT model for sentiment classification. **THIS FILE NEEDS TO BE UNZIPPED IN THE SAME FOLDER AS THE .py SCRIPTS IN ORDER TO BE USED** This can be adapted to classify sentiment for any biomedical text as shown in Example1.py
     
 PubMedCrawlerNoField.py: This is a PubMed Data Crawler that uses the NCBI e-utilities to retrieve the medline records for any specified PubMed search; An example of how to use this tool is shown in Example2.py **use of this tool must be in compliance with NCBI usage guidelines and failure to follow these guidelines may results in your IP being blocked access from the NCBI servers.**
 
